@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Jorggyh/projeto-curso-git)
+
 # Praticando GitHub
 ## Primeiros Passos
 Aprendendo a editar o README no GitHub.
